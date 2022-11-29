@@ -6,4 +6,4 @@ This project was generated with `NodeJS` + `Express` + `MongoDB` + `Angular` App
 2. Stored user data and posts in MongoDB by Express and Mongoose, and render posts on the frontend with Angular.
 3. Implemented cookie-based login and registrations (authentication and authorization) using JSON Web Token.
 
-
+![alt text](https://github.com/phoebe20200523/Full-stack-web-development/blob/main/MEAN.PNG)
