@@ -1,4 +1,4 @@
-# MEAN-Stack Web Application
+# MEAN-Stack Web Application Development
 
 This project was generated with `NodeJS` + `Express` + `MongoDB` + `Angular` Application with the help of the Angular CLI
 
